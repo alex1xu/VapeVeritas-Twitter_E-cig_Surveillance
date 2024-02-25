@@ -2,7 +2,8 @@
 
 > How are factors like marketing strategies, appealing flavors, and the lack of centralized authorities contributing to the positive perception of electronic cigarettes on Twitter?
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5b74f79ee2904bfc92cc90fdbfdd3421)](https://app.codacy.com?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) ![Lines of code](https://img.shields.io/tokei/lines/github/alex1xu/Breadcrumbshsr23-analysis) ![Static Badge](https://img.shields.io/badge/%20-%20?style=flat&label=what%20is%20vaping%3F&labelColor=%23C841F9&color=%23555555&link=https%3A%2F%2Fwww.dshs.texas.gov%2Fvaping%2Fwhat-is-vaping)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5b74f79ee2904bfc92cc90fdbfdd3421)](https://app.codacy.com/gh/alex1xu/VapeVeritas-Twitter_E-cig_Surveillance/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) ![Lines of code](https://img.shields.io/tokei/lines/github/alex1xu/VapeVeritas-Twitter_E-cig_Surveillance)
+ ![Static Badge](https://img.shields.io/badge/%20-%20?style=flat&label=what%20is%20vaping%3F&labelColor=%23C841F9&color=%23555555&link=https%3A%2F%2Fwww.dshs.texas.gov%2Fvaping%2Fwhat-is-vaping)
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
@@ -15,15 +16,15 @@
 
 ## Table of Contents
 
-- [Why?](https://github.com/alex1xu/hsr23-analysis/blob/main/README.md#-why)
-- [Overview](https://github.com/alex1xu/hsr23-analysis/blob/main/README.md#-overview)
-- [Sentiment Analysis](https://github.com/alex1xu/hsr23-analysis/blob/main/README.md#-sentiment-analysis)
-- [Topic Modeling](https://github.com/alex1xu/hsr23-analysis/blob/main/README.md#-topic-modeling)
-- [Location and Emotion Analysis](https://github.com/alex1xu/hsr23-analysis/blob/main/README.md#-location-and-emotion-analysis)
-- [Information Dissemination](https://github.com/alex1xu/hsr23-analysis/blob/main/README.md#-information-dissemination)
-- [Chrome Extension](https://github.com/alex1xu/hsr23-analysis/blob/main/README.md#-chrome-extension)
-- [Conclusions](https://github.com/alex1xu/hsr23-analysis/blob/main/README.md#-concusions)
-- [Recognition](https://github.com/alex1xu/hsr23-analysis/blob/main/README.md#-recognition)
+- [Why?](#why)
+- [Overview](#overview)
+- [Sentiment Analysis](#sentiment-analysis)
+- [Topic Modeling](#topic-modeling)
+- [Location and Emotion Analysis](#location-and-emotion-analysis)
+- [Information Dissemination](#information-dissemination)
+- [Chrome Extension](#chrome-extension)
+- [Conclusions](#conclusions)
+- [Recognition](#recognition)
 
 ## Why?
 
