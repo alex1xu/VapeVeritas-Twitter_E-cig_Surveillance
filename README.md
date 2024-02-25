@@ -15,15 +15,15 @@
 
 ## Table of Contents
 
-- [Why?](#-why)
-- [Overview](#-)
-- [Sentiment Analysis](#-)
-- [Topic Modeling](#-)
-- [Location and Emotion Analysis](#-)
-- [Information Dissemination](#-)
-- [Chrome Extension](#-)
-- [Conclusions](#-)
-- [Recognition](#-)
+- [Why?](https://github.com/alex1xu/hsr23-analysis/blob/main/README.md#-why)
+- [Overview](https://github.com/alex1xu/hsr23-analysis/blob/main/README.md#-overview)
+- [Sentiment Analysis](https://github.com/alex1xu/hsr23-analysis/blob/main/README.md#-sentiment-analysis)
+- [Topic Modeling](https://github.com/alex1xu/hsr23-analysis/blob/main/README.md#-topic-modeling)
+- [Location and Emotion Analysis](https://github.com/alex1xu/hsr23-analysis/blob/main/README.md#-location-and-emotion-analysis)
+- [Information Dissemination](https://github.com/alex1xu/hsr23-analysis/blob/main/README.md#-information dissemination)
+- [Chrome Extension](https://github.com/alex1xu/hsr23-analysis/blob/main/README.md#-chrome-extension)
+- [Conclusions](https://github.com/alex1xu/hsr23-analysis/blob/main/README.md#-concusions)
+- [Recognition](https://github.com/alex1xu/hsr23-analysis/blob/main/README.md#-recognition)
 
 ## Why?
 
